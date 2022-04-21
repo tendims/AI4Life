@@ -17,12 +17,14 @@
 2. [动手深度学习-第二版-李沐](https://zh.d2l.ai/chapter_preface/index.html)  
 3. [动手深度学习-视频课程-李沐](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)  
 4. [经典深度学习论文精读-李沐](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=398820)  
-   [经典深度学习论文精读计划-github-李沐](https://github.com/mli/paper-reading/)  
+   [经典深度学习论文精读计划-github-李沐](https://github.com/mli/paper-reading/):  
+   '''  
    <font size=1>包括已经录制完成和之后将要介绍的论文.  
    选取的原则是10年内深度学习里有影响力文章（必读文章），或者近期比较有意思的文章。  
    当然这十年里重要的工作太多了，不可能一一过一遍。  
    在选取的时候我会偏向一些之前 直播课 中没讲到过的。   
-   欢迎大家在 讨论区 里提供建（点）议（歌）。</font>
+   欢迎大家在 讨论区 里提供建（点）议（歌）。</font>  
+   '''
 
 []()
 
