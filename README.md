@@ -1,4 +1,4 @@
-# AI4Life
+# AI4Music
 主要探索AI在音乐生成方面的应用。
 
 ## paper
